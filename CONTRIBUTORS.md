@@ -1,7 +1,7 @@
 ![](http://i.imgur.com/OtHMgS4.png)
 
 ####Lead Development:
-* **[Nick0703] (https://github.com/Nick0703)**
+***[Nick0703] (https://github.com/Nick0703)***
 
 <br>
 ####Development Team:
